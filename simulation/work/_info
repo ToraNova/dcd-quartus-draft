@@ -1,0 +1,407 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/general/Quartus-lite-19.1.0.670-windows
+Eadd_tb
+Z0 w1586887988
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/simulation
+Z4 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/add_tb.vhdl
+Z5 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/add_tb.vhdl
+l0
+L13
+V;TmIgSSa0[S;HdjLzRfKG3
+!s100 NgQhV=@]_dc48O6^dDm=K1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1586887992
+!i10b 1
+Z8 !s108 1586887992.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/add_tb.vhdl|
+Z10 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/add_tb.vhdl|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Asim
+R1
+R2
+Z13 DEx4 work 6 add_tb 0 22 ;TmIgSSa0[S;HdjLzRfKG3
+l30
+L16
+Vji7<WGC_1M7nN8JIPR8CZ2
+!s100 QOD^g?X9933GXGnLDEC;R1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edraft0
+Z14 w1586865340
+R3
+Z15 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl
+Z16 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl
+l0
+L1
+VjiJXo4PmQGmCf0zG4AOAk2
+!s100 c@?[OO]JZQ?S<_ZR]X_?Z2
+R6
+32
+Z17 !s110 1586865574
+!i10b 1
+Z18 !s108 1586865573.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl|
+Z20 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl|
+!i113 1
+R11
+R12
+Asim
+DEx4 work 6 draft0 0 22 jiJXo4PmQGmCf0zG4AOAk2
+l5
+L4
+V=VdjCfUQHV8g3b3NH?z?O2
+!s100 VA;oAHFO8ASWGhNd[0gPj3
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Edraft1
+Z21 w1586866618
+R3
+Z22 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl
+Z23 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl
+l0
+L1
+VizE?NBLkdBidh5nB5?T190
+!s100 DXWmL5N9VX;k]C>>7PlUW0
+R6
+32
+Z24 !s110 1586866621
+!i10b 1
+Z25 !s108 1586866621.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl|
+Z27 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl|
+!i113 1
+R11
+R12
+Asim
+DEx4 work 6 draft1 0 22 izE?NBLkdBidh5nB5?T190
+l5
+L4
+VA4A4Y`7>Kn_@VQBZ1`d1R3
+!s100 Mn>ICdmTkJo0ZBGMbBQ@Z2
+R6
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R11
+R12
+Edraft2
+Z28 w1586866556
+R3
+Z29 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl
+Z30 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl
+l0
+L1
+VTA^EgEUBQhK8c9Ii8Wlf`3
+!s100 mTnOX]OBDc_i[ZLQkz<Mh1
+R6
+32
+Z31 !s110 1586866633
+!i10b 1
+Z32 !s108 1586866633.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl|
+Z34 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl|
+!i113 1
+R11
+R12
+Asim
+DEx4 work 6 draft2 0 22 TA^EgEUBQhK8c9Ii8Wlf`3
+l5
+L4
+V4cTz>_MVnQ?3Nh4YRW6cH1
+!s100 Z2:T6IORj@b4k@INHCmk70
+R6
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R11
+R12
+Edraft3
+Z35 w1586866850
+R3
+Z36 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl
+Z37 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl
+l0
+L1
+V_0z_de66NhBAT^OTAY9h12
+!s100 _H>IDjM?C4<1:mGUf>N<@2
+R6
+32
+Z38 !s110 1586866858
+!i10b 1
+Z39 !s108 1586866858.000000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl|
+Z41 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl|
+!i113 1
+R11
+R12
+Asim
+DEx4 work 6 draft3 0 22 _0z_de66NhBAT^OTAY9h12
+l5
+L4
+V?d;cfd0JfA^dcJP]Talee0
+!s100 j712B7?agX;JB0OjeDi`b1
+R6
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R11
+R12
+Eforloop_tb
+Z42 w1586886381
+R3
+R29
+R30
+l0
+L1
+V[HlVPmZNe1?efIm[]WNMX3
+!s100 fh7z6iK@Ldj_ZS7<5KCDD2
+R6
+32
+Z43 !s110 1586886544
+!i10b 1
+Z44 !s108 1586886544.000000
+R33
+R34
+!i113 1
+R11
+R12
+Asim
+DEx4 work 10 forloop_tb 0 22 [HlVPmZNe1?efIm[]WNMX3
+l5
+L4
+VSQkYHEKXzJ<;QBDiF9gfA0
+!s100 S7h`S3CMl22kmkd^8F7Ve3
+R6
+32
+R43
+!i10b 1
+R44
+R33
+R34
+!i113 1
+R11
+R12
+Efulladder1bit
+Z45 w1586886773
+R1
+R2
+R3
+Z46 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl
+Z47 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl
+l0
+L15
+V^;dRD>c?W5mnVoo`XJNgA3
+!s100 :lHGGiBnD7aU3`<3QVST`0
+R6
+32
+Z48 !s110 1586886776
+!i10b 1
+Z49 !s108 1586886776.000000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl|
+Z51 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl|
+!i113 1
+R11
+R12
+Alogic
+R1
+R2
+DEx4 work 13 fulladder1bit 0 22 ^;dRD>c?W5mnVoo`XJNgA3
+l25
+L24
+V27V_Zda3g9QgRAdY4U`G<3
+!s100 5<>bJj<YiP?jBDFBQ9`9W3
+R6
+32
+R48
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R11
+R12
+Efulladder4bit
+Z52 w1586886909
+R1
+R2
+R3
+Z53 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl
+Z54 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl
+l0
+L16
+VOj7V_EiI;6=Eb8;P[1k`43
+!s100 7zTc@o_5Q4SUUIKolNYU`1
+R6
+32
+Z55 !s110 1586886913
+!i10b 1
+Z56 !s108 1586886913.000000
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl|
+Z58 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl|
+!i113 1
+R11
+R12
+Alogic
+R1
+R2
+DEx4 work 13 fulladder4bit 0 22 Oj7V_EiI;6=Eb8;P[1k`43
+l37
+L27
+VWNIhHW4b858YNoMSg@z@N1
+!s100 KLF7zkbS8@3^dE6<FIAb70
+R6
+32
+R55
+!i10b 1
+R56
+R57
+R58
+!i113 1
+R11
+R12
+Ehelloworld_tb
+Z59 w1586886402
+R3
+R15
+R16
+l0
+L1
+VBLCh8Xl:@DR5dSM166:>]0
+!s100 Y<T=HhFKOeDo8=HSbnehH3
+R6
+32
+R43
+!i10b 1
+R44
+R19
+R20
+!i113 1
+R11
+R12
+Asim
+DEx4 work 13 helloworld_tb 0 22 BLCh8Xl:@DR5dSM166:>]0
+l5
+L4
+VK@UzjRn3]d2`k?`z:0C5j3
+!s100 bObXSh>ERiA?UHXRJFIPE0
+R6
+32
+R43
+!i10b 1
+R44
+R19
+R20
+!i113 1
+R11
+R12
+Esimloop_tb
+Z60 w1586886414
+R3
+R22
+R23
+l0
+L1
+V0ITk57Y5K>hYK9?5JW?7E1
+!s100 CcOc_GZEi__=1UIBz0>WZ3
+R6
+32
+R43
+!i10b 1
+R44
+R26
+R27
+!i113 1
+R11
+R12
+Asim
+DEx4 work 10 simloop_tb 0 22 0ITk57Y5K>hYK9?5JW?7E1
+l5
+L4
+V9U?Y=k:Y:jQYL@cb0Nefb0
+!s100 bm8?m8GXcl]TKn8l3ozGY1
+R6
+32
+R43
+!i10b 1
+R44
+R26
+R27
+!i113 1
+R11
+R12
+Ewloop_tb
+Z61 w1586886732
+R3
+R36
+R37
+l0
+L1
+VFB6]en5VCWgX]:HX6hoTl0
+!s100 dFdh3lX2TQNb=Jiad47Bi3
+R6
+32
+Z62 !s110 1586886918
+!i10b 1
+Z63 !s108 1586886918.000000
+R40
+R41
+!i113 1
+R11
+R12
+Asim
+DEx4 work 8 wloop_tb 0 22 FB6]en5VCWgX]:HX6hoTl0
+l5
+L4
+V<B;^9nhcK3iNZdjSX@FHO3
+!s100 k>jzJjk;Ao9A^RV[H:IZL3
+R6
+32
+R62
+!i10b 1
+R63
+R40
+R41
+!i113 1
+R11
+R12

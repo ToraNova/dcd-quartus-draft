@@ -1,0 +1,41 @@
+C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Fulladder4bit
+-- Compiling architecture logic of Fulladder4bit
+
+} {} {}} C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Fulladder1bit
+-- Compiling architecture logic of Fulladder1bit
+
+} {} {}} C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity simloop_tb
+-- Compiling architecture sim of simloop_tb
+
+} {} {}} C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity helloworld_tb
+-- Compiling architecture sim of helloworld_tb
+
+} {} {}} C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity wloop_tb
+-- Compiling architecture sim of wloop_tb
+
+} {} {}} C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity forloop_tb
+-- Compiling architecture sim of forloop_tb
+
+} {} {}}
