@@ -13,19 +13,19 @@ Z0 w1586887988
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 Z3 dC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/simulation
-Z4 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/add_tb.vhdl
-Z5 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/add_tb.vhdl
+Z4 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/tests/add_tb.vhdl
+Z5 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/tests/add_tb.vhdl
 l0
 L13
 V;TmIgSSa0[S;HdjLzRfKG3
 !s100 NgQhV=@]_dc48O6^dDm=K1
 Z6 OV;C;10.5b;63
 32
-Z7 !s110 1586887992
+Z7 !s110 1587015554
 !i10b 1
-Z8 !s108 1586887992.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/add_tb.vhdl|
-Z10 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/add_tb.vhdl|
+Z8 !s108 1587015554.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/tests/add_tb.vhdl|
+Z10 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/tests/add_tb.vhdl|
 !i113 1
 Z11 o-work work -2002 -explicit
 Z12 tExplicit 1 CvgOpt 0
@@ -35,8 +35,8 @@ R2
 Z13 DEx4 work 6 add_tb 0 22 ;TmIgSSa0[S;HdjLzRfKG3
 l30
 L16
-Vji7<WGC_1M7nN8JIPR8CZ2
-!s100 QOD^g?X9933GXGnLDEC;R1
+Z14 Vji7<WGC_1M7nN8JIPR8CZ2
+Z15 !s100 QOD^g?X9933GXGnLDEC;R1
 R6
 32
 R7
@@ -48,21 +48,21 @@ R10
 R11
 R12
 Edraft0
-Z14 w1586865340
+Z16 w1586865340
 R3
-Z15 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl
-Z16 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl
+Z17 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl
+Z18 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl
 l0
 L1
 VjiJXo4PmQGmCf0zG4AOAk2
 !s100 c@?[OO]JZQ?S<_ZR]X_?Z2
 R6
 32
-Z17 !s110 1586865574
+Z19 !s110 1586865574
 !i10b 1
-Z18 !s108 1586865573.000000
-Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl|
-Z20 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl|
+Z20 !s108 1586865573.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl|
+Z22 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/helloworld_tb.vhdl|
 !i113 1
 R11
 R12
@@ -74,30 +74,30 @@ V=VdjCfUQHV8g3b3NH?z?O2
 !s100 VA;oAHFO8ASWGhNd[0gPj3
 R6
 32
-R17
-!i10b 1
-R18
 R19
+!i10b 1
 R20
+R21
+R22
 !i113 1
 R11
 R12
 Edraft1
-Z21 w1586866618
+Z23 w1586866618
 R3
-Z22 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl
-Z23 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl
+Z24 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl
+Z25 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl
 l0
 L1
 VizE?NBLkdBidh5nB5?T190
 !s100 DXWmL5N9VX;k]C>>7PlUW0
 R6
 32
-Z24 !s110 1586866621
+Z26 !s110 1586866621
 !i10b 1
-Z25 !s108 1586866621.000000
-Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl|
-Z27 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl|
+Z27 !s108 1586866621.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl|
+Z29 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/simloop_tb.vhdl|
 !i113 1
 R11
 R12
@@ -109,30 +109,30 @@ VA4A4Y`7>Kn_@VQBZ1`d1R3
 !s100 Mn>ICdmTkJo0ZBGMbBQ@Z2
 R6
 32
-R24
-!i10b 1
-R25
 R26
+!i10b 1
 R27
+R28
+R29
 !i113 1
 R11
 R12
 Edraft2
-Z28 w1586866556
+Z30 w1586866556
 R3
-Z29 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl
-Z30 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl
+Z31 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl
+Z32 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl
 l0
 L1
 VTA^EgEUBQhK8c9Ii8Wlf`3
 !s100 mTnOX]OBDc_i[ZLQkz<Mh1
 R6
 32
-Z31 !s110 1586866633
+Z33 !s110 1586866633
 !i10b 1
-Z32 !s108 1586866633.000000
-Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl|
-Z34 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl|
+Z34 !s108 1586866633.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl|
+Z36 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/forloop_tb.vhdl|
 !i113 1
 R11
 R12
@@ -144,30 +144,30 @@ V4cTz>_MVnQ?3Nh4YRW6cH1
 !s100 Z2:T6IORj@b4k@INHCmk70
 R6
 32
-R31
-!i10b 1
-R32
 R33
+!i10b 1
 R34
+R35
+R36
 !i113 1
 R11
 R12
 Edraft3
-Z35 w1586866850
+Z37 w1586866850
 R3
-Z36 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl
-Z37 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl
+Z38 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl
+Z39 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl
 l0
 L1
 V_0z_de66NhBAT^OTAY9h12
 !s100 _H>IDjM?C4<1:mGUf>N<@2
 R6
 32
-Z38 !s110 1586866858
+Z40 !s110 1586866858
 !i10b 1
-Z39 !s108 1586866858.000000
-Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl|
-Z41 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl|
+Z41 !s108 1586866858.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl|
+Z43 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/wloop_tb.vhdl|
 !i113 1
 R11
 R12
@@ -179,30 +179,30 @@ V?d;cfd0JfA^dcJP]Talee0
 !s100 j712B7?agX;JB0OjeDi`b1
 R6
 32
-R38
-!i10b 1
-R39
 R40
+!i10b 1
 R41
+R42
+R43
 !i113 1
 R11
 R12
 Eforloop_tb
-Z42 w1586886381
+Z44 w1586886381
 R3
-R29
-R30
+Z45 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/forloop_tb.vhdl
+Z46 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/forloop_tb.vhdl
 l0
 L1
 V[HlVPmZNe1?efIm[]WNMX3
 !s100 fh7z6iK@Ldj_ZS7<5KCDD2
 R6
 32
-Z43 !s110 1586886544
+R7
 !i10b 1
-Z44 !s108 1586886544.000000
-R33
-R34
+R8
+Z47 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/forloop_tb.vhdl|
+Z48 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/forloop_tb.vhdl|
 !i113 1
 R11
 R12
@@ -214,32 +214,32 @@ VSQkYHEKXzJ<;QBDiF9gfA0
 !s100 S7h`S3CMl22kmkd^8F7Ve3
 R6
 32
-R43
+R7
 !i10b 1
-R44
-R33
-R34
+R8
+R47
+R48
 !i113 1
 R11
 R12
 Efulladder1bit
-Z45 w1586886773
+Z49 w1586886773
 R1
 R2
 R3
-Z46 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl
-Z47 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl
+Z50 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl
+Z51 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl
 l0
 L15
 V^;dRD>c?W5mnVoo`XJNgA3
 !s100 :lHGGiBnD7aU3`<3QVST`0
 R6
 32
-Z48 !s110 1586886776
+R7
 !i10b 1
-Z49 !s108 1586886776.000000
-Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl|
-Z51 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl|
+Z52 !s108 1587015553.000000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl|
+Z54 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder1bit.vhdl|
 !i113 1
 R11
 R12
@@ -253,32 +253,32 @@ V27V_Zda3g9QgRAdY4U`G<3
 !s100 5<>bJj<YiP?jBDFBQ9`9W3
 R6
 32
-R48
+R7
 !i10b 1
-R49
-R50
-R51
+R52
+R53
+R54
 !i113 1
 R11
 R12
 Efulladder4bit
-Z52 w1586886909
+Z55 w1586886909
 R1
 R2
 R3
-Z53 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl
-Z54 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl
+Z56 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl
+Z57 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl
 l0
 L16
 VOj7V_EiI;6=Eb8;P[1k`43
 !s100 7zTc@o_5Q4SUUIKolNYU`1
 R6
 32
-Z55 !s110 1586886913
+R7
 !i10b 1
-Z56 !s108 1586886913.000000
-Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl|
-Z58 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl|
+R8
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl|
+Z59 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/components/Fulladder4bit.vhdl|
 !i113 1
 R11
 R12
@@ -292,30 +292,30 @@ VWNIhHW4b858YNoMSg@z@N1
 !s100 KLF7zkbS8@3^dE6<FIAb70
 R6
 32
-R55
+R7
 !i10b 1
-R56
-R57
+R8
 R58
+R59
 !i113 1
 R11
 R12
 Ehelloworld_tb
-Z59 w1586886402
+Z60 w1586886402
 R3
-R15
-R16
+Z61 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/helloworld_tb.vhdl
+Z62 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/helloworld_tb.vhdl
 l0
 L1
 VBLCh8Xl:@DR5dSM166:>]0
 !s100 Y<T=HhFKOeDo8=HSbnehH3
 R6
 32
-R43
+R7
 !i10b 1
-R44
-R19
-R20
+R8
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/helloworld_tb.vhdl|
+Z64 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/helloworld_tb.vhdl|
 !i113 1
 R11
 R12
@@ -327,30 +327,30 @@ VK@UzjRn3]d2`k?`z:0C5j3
 !s100 bObXSh>ERiA?UHXRJFIPE0
 R6
 32
-R43
+R7
 !i10b 1
-R44
-R19
-R20
+R8
+R63
+R64
 !i113 1
 R11
 R12
 Esimloop_tb
-Z60 w1586886414
+Z65 w1586886414
 R3
-R22
-R23
+Z66 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/simloop_tb.vhdl
+Z67 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/simloop_tb.vhdl
 l0
 L1
 V0ITk57Y5K>hYK9?5JW?7E1
 !s100 CcOc_GZEi__=1UIBz0>WZ3
 R6
 32
-R43
+R7
 !i10b 1
-R44
-R26
-R27
+R8
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/simloop_tb.vhdl|
+Z69 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/simloop_tb.vhdl|
 !i113 1
 R11
 R12
@@ -362,30 +362,71 @@ V9U?Y=k:Y:jQYL@cb0Nefb0
 !s100 bm8?m8GXcl]TKn8l3ozGY1
 R6
 32
-R43
+R7
 !i10b 1
-R44
-R26
-R27
+R8
+R68
+R69
+!i113 1
+R11
+R12
+Et1q6_tb
+Z70 w1587015549
+Z71 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z72 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/t1q6_tb.vhdl
+Z73 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/t1q6_tb.vhdl
+l0
+L10
+VcLk==:G54CAh^f0bCKg4^1
+!s100 eDI^NT^>B=9oX6KF8<hX52
+R6
+32
+R7
+!i10b 1
+R8
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/t1q6_tb.vhdl|
+Z75 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/t1q6_tb.vhdl|
+!i113 1
+R11
+R12
+Asim
+R71
+R1
+R2
+DEx4 work 7 t1q6_tb 0 22 cLk==:G54CAh^f0bCKg4^1
+l17
+L13
+VX83cEGZH4E;mn7[YWM]gk2
+!s100 :D6AH5AC8Hic]Fz<i3ZS63
+R6
+32
+R7
+!i10b 1
+R8
+R74
+R75
 !i113 1
 R11
 R12
 Ewloop_tb
-Z61 w1586886732
+Z76 w1586886732
 R3
-R36
-R37
+Z77 8C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/wloop_tb.vhdl
+Z78 FC:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/wloop_tb.vhdl
 l0
 L1
 VFB6]en5VCWgX]:HX6hoTl0
 !s100 dFdh3lX2TQNb=Jiad47Bi3
 R6
 32
-Z62 !s110 1586886918
+R7
 !i10b 1
-Z63 !s108 1586886918.000000
-R40
-R41
+R8
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/wloop_tb.vhdl|
+Z80 !s107 C:/Users/chia_/OneDrive/Documents/GitHub/dcd-quartus-draft/vhdl/samples/wloop_tb.vhdl|
 !i113 1
 R11
 R12
@@ -397,11 +438,11 @@ V<B;^9nhcK3iNZdjSX@FHO3
 !s100 k>jzJjk;Ao9A^RV[H:IZL3
 R6
 32
-R62
+R7
 !i10b 1
-R63
-R40
-R41
+R8
+R79
+R80
 !i113 1
 R11
 R12
