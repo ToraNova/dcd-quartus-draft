@@ -33,10 +33,18 @@ architecture logic of Fulladder4bit is
 		);
 	end component;
 	-- declare the signals (internal wiring)
-	signal c : std_logic_vector(0 to 3);
+	signal c : std_logic_vector(4 downto 0);
 begin
-	u0: Fulladder1bit port map(a => a(0), b => b(0), s => s(0), cin => cin,  cout => c(0));
-	u1: Fulladder1bit port map(a => a(1), b => b(1), s => s(1), cin => c(0), cout => c(1));
-	u2: Fulladder1bit port map(a => a(2), b => b(2), s => s(2), cin => c(1), cout => c(2));
-	u3: Fulladder1bit port map(a => a(3), b => b(3), s => s(3), cin => c(2), cout => cout);
+	-- this is hardcoding and just dumb
+	-- u0: Fulladder1bit port map(a => a(0), b => b(0), s => s(0), cin => cin,  cout => c(1));
+	-- u1: Fulladder1bit port map(a => a(1), b => b(1), s => s(1), cin => c(1), cout => c(2));
+	-- u2: Fulladder1bit port map(a => a(2), b => b(2), s => s(2), cin => c(2), cout => c(3));
+	-- u3: Fulladder1bit port map(a => a(3), b => b(3), s => s(3), cin => c(3), cout => cout);
+	
+	--using generate statement
+	gen: for i in 0 to 3 generate
+		u: Fulladder1bit port map(a => a(i), b => b(i), s => s(i), cin => c(i), cout => c(i+1));
+	end generate;
+	c(0) <= cin;
+	cout <= c(4);
 end architecture;
